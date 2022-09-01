@@ -18,7 +18,7 @@
 # When setting this field to "incubator", please uncomment the
 # incubator_lesson_site, incubator_pre_survey, and incubator_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
-carpentry: "swc"
+carpentry: "dc"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
@@ -32,7 +32,7 @@ carpentry: "swc"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: "swc-gapminder"
+curriculum: "dc-ecology"
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
@@ -52,7 +52,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Introduction to R"
+title: "Data Analysis and Visualization in R for Ecologists"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
@@ -68,7 +68,7 @@ title: "Introduction to R"
 # incubator_post_survey: "put the URL of your post-workshop survey here"
 #
 #------------------------------------------------------------
-url: "https://uf-carpentry.github.io/2022-01-31-Intro-to-R-online/"
+url: "https://uf-carpentry.github.io/2022-09-19-Intro-to-R-online/"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
