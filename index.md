@@ -281,7 +281,7 @@ Space is limited to 45 participants and registration is required. Please plan on
 </p>
 
 <p><strong>
-Registration has closed for this workshop.
+Registration is now open for this workshop. Please register here: [https://informatics.research.ufl.edu/registration-uf-carpentries-club-data-analysis-and-visualization-in-r-for-ecologists-workshops/](https://informatics.research.ufl.edu/registration-uf-carpentries-club-data-analysis-and-visualization-in-r-for-ecologists-workshops/)
 </strong></p>
 
 <h3 id="original-lesson">Original Lesson</h3>
