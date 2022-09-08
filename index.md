@@ -284,12 +284,6 @@ Space is limited to 45 participants and registration is required. Please plan on
 Registration is now open for this workshop. Please register here: <a href="https://informatics.research.ufl.edu/registration-uf-carpentries-club-data-analysis-and-visualization-in-r-for-ecologists-workshops/">https://informatics.research.ufl.edu/registration-uf-carpentries-club-data-analysis-and-visualization-in-r-for-ecologists-workshops/</a>
 </strong></p>
 
-<h3 id="original-lesson">Original Lesson</h3>
-
-<p>
-This workshop covers the first half of the lesson [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/). A follow-up workshop on February 21–22 will complete this lesson.
-Your fee from this workshop will count toward the follow-up workshop.
-</p>
 
 {% comment%}
 CODE OF CONDUCT
