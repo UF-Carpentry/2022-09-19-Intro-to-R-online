@@ -403,11 +403,10 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
-<p>
-  To participate in this Software Carpentry workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
+<p> To participate in this workshop, you will need to install R, RStudio, and several R packages. 
+  Instructions on doing so are available <a href="https://datacarpentry.org/R-ecology-lesson/#setup-instructions"> at this instruction page</a>.
 </p>
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
@@ -433,5 +432,4 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
-Please check [the "Setup" page of the lesson site](https://swcarpentry.github.io/r-novice-gapminder/setup.html) for instructions to follow
-to obtain the software you will need to follow the lesson.
+
