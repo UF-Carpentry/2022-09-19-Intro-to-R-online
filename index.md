@@ -10,12 +10,12 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "0"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Sep 19–20, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9am~4pm (EST)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "10am~4pm (EST)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-09-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-09-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: TBA            # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: TBA                # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: TBA  # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+instructor: "Caitlin Campbell", "Aaron Hogan", "Orlando Acevedo-Charry"            # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: "Audrey Smith","Ke Zhang", "Dellena Bloom", "Fenqi Wang, "Caitlin Campbell", "Aaron Hogan", "Orlando Acevedo-Charry"               # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: "caitlincampbell@ufl.edu"  # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -403,11 +403,10 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
-<p>
-  To participate in this Software Carpentry workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
+<p> To participate in this workshop, you will need to install R, RStudio, and several R packages. 
+  Instructions on doing so are available <a href="https://datacarpentry.org/R-ecology-lesson/#setup-instructions"> at this instruction page</a>.
 </p>
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
@@ -433,5 +432,4 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
-Please check [the "Setup" page of the lesson site](https://swcarpentry.github.io/r-novice-gapminder/setup.html) for instructions to follow
-to obtain the software you will need to follow the lesson.
+
